@@ -40,6 +40,11 @@ export default function Hero() {
         </h2>
 
         <p className="max-w-3xl mx-auto text-lg text-gray-300 leading-relaxed">
+          Edman Resources is a specialized institutional service provider dedicated 
+          to optimizing the supply chains of Ghana’s leading financial and corporate 
+          entities. We bridge the gap between high-demand operational needs and seamless, 
+          reliable delivery. Led by a veteran of the banking industry and a technical 
+          systems expert, we don't just supply products; we safeguard your operational continuity.
           Edman Resources Ltd is a duly incorporated Private Limited Company
           in Ghana positioned as a structured institutional operations and
           supply chain partner delivering disciplined execution aligned with
