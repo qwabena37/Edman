@@ -33,8 +33,8 @@ export default function ContactPage() {
                 <h3 className="text-edmanGold text-xl font-semibold mb-4">
                   Telephone
                 </h3>
-                <p>+233 24 000 0000</p>
-                <p>+233 20 000 0000</p>
+                <p>+233 55 075 0090</p>
+                <p>+233 50 339 3523</p>
                 <p>+233 30 000 0000</p>
               </div>
 
