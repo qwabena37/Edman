@@ -90,7 +90,7 @@ export default function Hero() {
   className="flex justify-center md:justify-end mt-10 md:mt-0"
 >
   <img
-    src="./images/chain.PNG"
+    src="./images/chainS.PNG"
     alt="Supply Chain Operations"
     className="
       w-[85%] sm:w-[70%] md:w-full
